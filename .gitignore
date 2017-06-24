@@ -1,0 +1,9 @@
+*.pyc
+lib/
+bin/
+lib64/
+include/
+*.json
+selenium/
+lib64
+*.swp
